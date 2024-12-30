@@ -1,0 +1,2 @@
+# generate_daily_report
+日報のフォーマットを自動生成するスクリプト
